@@ -1,1 +1,2 @@
 testovací php file
+magis
